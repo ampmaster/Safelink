@@ -1,0 +1,21 @@
+{
+"short_name": "Safelink",
+"name": "Safelink Generator",
+"icons": [
+{
+"src": "img/appicon192.png",
+"sizes": "192x192",
+"type": "image/png"
+},
+{
+"src": "img/appicon144.png",
+"sizes": "144x144",
+"type": "image/png"
+}
+],
+"start_url": "./",
+"display": "standalone",
+"orientation": "any",
+"background_color": "#fafafa",
+"theme_color": "#009688"
+}
